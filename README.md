@@ -47,9 +47,9 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Andrés" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=dark&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
