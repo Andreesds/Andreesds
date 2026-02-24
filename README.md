@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Andrés%20Landázuri&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Architect&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anthony%20Andrés%20Landázuri&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Architect&descAlignY=62&descSize=20" />
 </p>
 
 # ¡Hola! Soy Andrés 👋
