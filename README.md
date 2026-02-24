@@ -31,7 +31,7 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Bases de Datos (Relacionales & NoSQL)**
+**Bases de Datos (SQL & NoSQL)**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -47,20 +47,20 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 ---
 
 ### 🚀 Proyectos y Experiencia (Privados)
-*Debido a acuerdos de confidencialidad, mis proyectos principales residen en repositorios privados e institucionales. Aquí un resumen de mi trabajo:*
+*Resumen de implementaciones en entornos empresariales:*
 
 * **Sistemas con CQRS & Microservicios:** Implementación de arquitecturas desacopladas para alta concurrencia.
-* **Integración de Datos Legacy:** Conexión y modernización de flujos de datos entre sistemas modernos y **AS/400**.
-* **Gestión de Datos Escalable:** Diseño de esquemas complejos en **PostgreSQL** y **MongoDB** para entornos de alta disponibilidad.
-* **Arquitectura Hexagonal en Producción:** Estructuración de cores bancarios y logísticos para facilitar su mantenimiento.
+* **Integración Legacy (AS/400):** Desarrollo de capas de persistencia y servicios para modernizar flujos de datos IBM i.
+* **Optimización de DB:** Diseño de esquemas y queries complejas en PostgreSQL y MariaDB para alto rendimiento.
+* **Arquitectura Hexagonal:** Estructuración de cores financieros y logísticos enfocados en la mantenibilidad.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estadísticas de Actividad
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Andrés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Andrés" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
