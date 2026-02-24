@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Anthony%20Andrés%20Landázuri&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Architect&descAlignY=62&descSize=20" />
 </p>
 
-# ¡Hola! Soy Andrés 👋
+# ¡Hola! Soy Anthony Andrés 👋
 ### **Backend Developer | Software Architect | Automation Expert**
 
 Soy un desarrollador enfocado en construir aplicaciones escalables y eficientes. Mi especialidad es el **Backend**, donde diseño sistemas robustos utilizando **NestJS** y **Spring Boot**, priorizando siempre la estabilidad y el rendimiento en producción.
@@ -59,6 +59,8 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 ### 📊 Estadísticas de Actividad
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Andrés" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreesds&theme=tokyonight&hide_border=true" alt="Racha de Andrés" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
