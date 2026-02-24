@@ -18,7 +18,6 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 | **CQRS** | ✅ | Separación de comandos y consultas para optimizar rendimiento. |
 | **Microservicios** | ✅ | Escalabilidad horizontal y servicios especializados. |
 | **Modular** | ✅ | Organización de código altamente cohesiva en NestJS. |
-| **MVC** | ✅ | Estructura estándar para proyectos rápidos y efectivos. |
 | **Clean Architecture** | ✅ | Independencia de frameworks y bases de datos. |
 
 ---
@@ -32,6 +31,13 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+**Bases de Datos (Relacionales & NoSQL)**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![AS400](https://img.shields.io/badge/IBM%20i%20(AS/400)-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
 **Frontend & Herramientas**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -44,14 +50,17 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 *Debido a acuerdos de confidencialidad, mis proyectos principales residen en repositorios privados e institucionales. Aquí un resumen de mi trabajo:*
 
 * **Sistemas con CQRS & Microservicios:** Implementación de arquitecturas desacopladas para alta concurrencia.
-* **Automatización de Procesos:** Scripts en Node.js y Python para optimización de flujos de datos.
+* **Integración de Datos Legacy:** Conexión y modernización de flujos de datos entre sistemas modernos y **AS/400**.
+* **Gestión de Datos Escalable:** Diseño de esquemas complejos en **PostgreSQL** y **MongoDB** para entornos de alta disponibilidad.
 * **Arquitectura Hexagonal en Producción:** Estructuración de cores bancarios y logísticos para facilitar su mantenimiento.
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 <p align="center">
-<img src="https://metrics.lecoq.io/Andreesds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1" alt="Estadísticas de Andrés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Andrés" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ---
