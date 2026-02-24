@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Andrés%20Landázuri&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20Software%20Architect&descAlignY=62&descSize=20" />
+</p>
+
 # ¡Hola! Soy Andrés 👋
 ### **Backend Developer | Software Architect | Automation Expert**
 
@@ -47,14 +51,11 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 
 ### 📊 Estadísticas de GitHub
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Andrés" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+<img src="https://metrics.lecoq.io/Andreesds?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1" alt="Estadísticas de Andrés" />
 </p>
 
 ---
 
 ### 🌍 Ubicación y Contacto
-📍 **Quito, Ecuador** 📫 Conéctate conmigo en [LinkedIn](www.linkedin.com/in/andrees-landazuri-924bb11b0)
-[Email]
-(andreeslp96@gmail.com)
+📍 **Quito, Ecuador** 📫 **LinkedIn:** [Andrees Landazuri](https://www.linkedin.com/in/andrees-landazuri-924bb11b0)  
+📧 **Email:** [andreeslp96@gmail.com](mailto:andreeslp96@gmail.com)
