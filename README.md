@@ -9,6 +9,16 @@ Soy un desarrollador enfocado en construir aplicaciones escalables y eficientes.
 
 ---
 
+### 🌉 Especialista en Modernización (Legacy a Moderno)
+Cerrar la brecha entre sistemas empresariales tradicionales y arquitecturas cloud-native es uno de mis mayores fuertes. Aporto un gran valor en empresas que buscan escalar sin perder la estabilidad de su core:
+
+* **Integración AS/400 (IBM i) & DB2:** Creación de capas de abstracción seguras para exponer datos y procesos transaccionales del mainframe a través de APIs modernas utilizando **NestJS** y **Spring Boot**.
+* **Estrategia de Desacoplamiento:** Utilizo **Arquitectura Hexagonal (Puertos y Adaptadores)** para aislar el sistema legacy de la nueva lógica de negocio, evitando que las dependencias antiguas frenen el desarrollo.
+* **Optimización con CQRS:** Separación de comandos y consultas. Sincronizo datos desde el AS/400 hacia bases de datos modernas (PostgreSQL/MongoDB) optimizadas para lectura, reduciendo la carga del mainframe y bajando la latencia a milisegundos.
+* **Resiliencia:** Implementación de patrones en microservicios para asegurar que la comunicación con sistemas legacy tolere fallos y caídas sin afectar la experiencia del usuario final.
+
+---
+
 ### 🏗️ Arquitecturas y Metodologías
 Utilizo patrones avanzados para garantizar que el código sea mantenible y fácil de testear:
 
@@ -46,23 +56,13 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 
 ---
 
-### 🚀 Proyectos y Experiencia (Privados)
-*Resumen de implementaciones en entornos empresariales:*
-
-* **Sistemas con CQRS & Microservicios:** Implementación de arquitecturas desacopladas para alta concurrencia.
-* **Integración Legacy (AS/400):** Desarrollo de capas de persistencia y servicios para modernizar flujos de datos IBM i.
-* **Optimización de DB:** Diseño de esquemas y queries complejas en PostgreSQL y MariaDB para alto rendimiento.
-* **Arquitectura Hexagonal:** Estructuración de cores financieros y logísticos enfocados en la mantenibilidad.
-
----
-
 ### 📊 Estadísticas de Actividad
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estadísticas de Andrés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true&v=2" alt="Estadísticas de Andrés" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreesds&theme=tokyonight&hide_border=true" alt="Racha de Andrés" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreesds&theme=tokyonight&hide_border=true&v=2" alt="Racha de Andrés" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight&v=2" alt="Lenguajes más usados" />
 </p>
 
 ---
