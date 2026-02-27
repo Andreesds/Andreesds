@@ -58,11 +58,11 @@ Utilizo patrones avanzados para garantizar que el código sea mantenible y fáci
 
 ### 📊 Estadísticas de Actividad
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de Andrés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andreesds&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estadísticas de Andrés" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andreesds&theme=tokyonight&hide_border=true" alt="Racha de Andrés" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreesds&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Lenguajes más usados" />
 </p>
 
 ---
